@@ -91,7 +91,7 @@ The **Multiple Linear Regression model** emerged as the best performer:
 
 ---
 
-## ✅ Conclusion
+## Conclusion
 
 I successfully developed a **Multiple Linear Regression** model capable of explaining **96% of the variance in U.S. house prices** using only a handful of features:
 
@@ -102,7 +102,7 @@ I successfully developed a **Multiple Linear Regression** model capable of expla
 
 The model is interpretable, statistically sound, and avoids overfitting.
 
-### 📌 Next Steps:
+### Next Steps:
 
 - Incorporate additional features like **square footage**, **garden**, or **pool**
 - Test performance on real-world datasets
