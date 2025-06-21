@@ -71,7 +71,7 @@ I used **p-values, R-values**, and **R² contributions** to evaluate feature rel
 
 ---
 
-## 📈 Model Evaluation
+## Model Evaluation
 
 The **Multiple Linear Regression model** emerged as the best performer:
 
